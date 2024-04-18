@@ -32,7 +32,9 @@ Transformed the 'y' column into binary format (0 for 'no', 1 for 'yes').
 Model Building:
 
 Logistic Regression-
+
 Single Variable Analysis: Constructed a logistic regression model utilizing solely the 'duration' variable.
+
 Multiple Variable Analysis: Expanded the model to encompass additional predictors such as interest rate, credit score, month of contact, and previous interactions.
 
 Model Evaluation:
